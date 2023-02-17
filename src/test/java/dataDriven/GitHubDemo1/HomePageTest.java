@@ -6,4 +6,9 @@ public class HomePageTest {
 	{
 		System.out.println("Home Page Test");
 	}
+	
+	public void HButton()
+	{
+		System.out.println("Home Button Tested");
+	}
 }
